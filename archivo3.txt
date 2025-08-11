@@ -1,3 +1,2 @@
 Este es un nuevo archivo que se guarda en la rama llamada rama-2 y contiene cosas diferentes,
 Un nuevo cambio realizado.
-
