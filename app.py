@@ -30,6 +30,7 @@ def get_day(day_id):
 
 @app.route("/", methods=["POST"])
 def post_days():
+    print("Metodo POST funcionando!")
     return jsonify({"success": True}), 201
 
 
