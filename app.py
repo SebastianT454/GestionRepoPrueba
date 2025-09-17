@@ -23,6 +23,7 @@ def get_days():
 def get_day(day_id):
     day = [day for day in days if day["id"] == day_id]
     if len(day) == 0:
+        print("No han transcurrido dias, grave!")
         abort(404)
     return jsonify({"day": day[0]})
 
