@@ -30,4 +30,9 @@ public class EstudianteController {
     public Estudiante createEstudiante(@RequestBody Estudiante estudiante) {
         return estudianteService.create(estudiante);
     }
+
+    @PutMapping("/estudiantes")
+    public Estudiante updateEstudiante(@RequestBody Estudiante estudiante) {
+        return estudianteService.update(estudiante);
+    }
 }

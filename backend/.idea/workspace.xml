@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d41d72d0-9897-40cc-bffb-aad56ff59609" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/udem/ejemplodockercompose/controller/EstudianteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/udem/ejemplodockercompose/controller/EstudianteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/udem/ejemplodockercompose/service/EstudianteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/udem/ejemplodockercompose/service/EstudianteService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SebastianT454"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jilopezv-udem/ejemplo-docker-compose.git",
+    "accountId": "a08d4b20-ec6d-49ab-b5e5-18651be46fd0"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="32pS0i3VcRd210tS0zCPDm6FotW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.ejemplo-docker-compose [clean,install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Sebastian/OneDrive/Desktop/Universidad/Practicas/Gestion de la Configuracion/ejemplo-docker-compose/backend"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d41d72d0-9897-40cc-bffb-aad56ff59609" name="Changes" comment="" />
+      <created>1758115802231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758115802231</updated>
+    </task>
+    <servers />
+  </component>
+</project>
